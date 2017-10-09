@@ -1,0 +1,1066 @@
+{
+    "train_128-3338": {
+        "class": 1,
+        "coordinates": "116 93 125 106"
+    },
+    "train_128-3845": {
+        "class": 1,
+        "coordinates": "37 45 44 59"
+    },
+    "train_128-3840": {
+        "class": 1,
+        "coordinates": "21 62 30 72"
+    },
+    "train_128-2795": {
+        "class": 1,
+        "coordinates": "82 82 92 90"
+    },
+    "train_128-3707": {
+        "class": 1,
+        "coordinates": "64 112 77 123"
+    },
+    "train_128-2791": {
+        "class": 1,
+        "coordinates": "90 77 99 88"
+    },
+    "train_128-2129": {
+        "class": 1,
+        "coordinates": "25 61 34 73"
+    },
+    "train_128-2126": {
+        "class": 1,
+        "coordinates": "81 48 92 63"
+    },
+    "train_128-2125": {
+        "class": 1,
+        "coordinates": "21 62 34 76"
+    },
+    "train_128-2653": {
+        "class": 1,
+        "coordinates": "16 43 27 57"
+    },
+    "train_128-1450": {
+        "class": 1,
+        "coordinates": "76 31 84 41"
+    },
+    "train_128-559": {
+        "class": 1,
+        "coordinates": "122 78 127 87"
+    },
+    "train_128-650": {
+        "class": 1,
+        "coordinates": "88 55 100 64"
+    },
+    "train_128-555": {
+        "class": 1,
+        "coordinates": "116 74 125 87"
+    },
+    "train_128-1510": {
+        "class": 1,
+        "coordinates": "73 24 85 38"
+    },
+    "train_128-1458": {
+        "class": 1,
+        "coordinates": "72 31 83 40"
+    },
+    "train_128-1517": {
+        "class": 1,
+        "coordinates": "8 80 16 93"
+    },
+    "train_128-1514": {
+        "class": 1,
+        "coordinates": "71 26 83 39"
+    },
+    "train_128-4340": {
+        "class": 1,
+        "coordinates": "29 61 41 74"
+    },
+    "train_128-3831": {
+        "class": 1,
+        "coordinates": "82 69 91 76"
+    },
+    "train_128-2564": {
+        "class": 1,
+        "coordinates": "35 79 48 90"
+    },
+    "train_128-1733": {
+        "class": 1,
+        "coordinates": "54 23 67 35"
+    },
+    "train_128-1227": {
+        "class": 1,
+        "coordinates": "117 89 126 104"
+    },
+    "train_128-1229": {
+        "class": 1,
+        "coordinates": "25 45 35 56"
+    },
+    "train_128-965": {
+        "class": 1,
+        "coordinates": "48 28 58 37"
+    },
+    "train_128-3209": {
+        "class": 1,
+        "coordinates": "1 60 13 73"
+    },
+    "train_128-768": {
+        "class": 1,
+        "coordinates": "3 24 14 36"
+    },
+    "train_128-3634": {
+        "class": 1,
+        "coordinates": "60 16 74 30"
+    },
+    "train_128-2833": {
+        "class": 1,
+        "coordinates": "53 4 64 16"
+    },
+    "train_128-336": {
+        "class": 1,
+        "coordinates": "68 103 76 114"
+    },
+    "train_128-2727": {
+        "class": 1,
+        "coordinates": "54 107 63 119"
+    },
+    "train_128-721": {
+        "class": 1,
+        "coordinates": "44 36 55 49"
+    },
+    "train_128-1357": {
+        "class": 1,
+        "coordinates": "12 57 22 68"
+    },
+    "train_128-725": {
+        "class": 1,
+        "coordinates": "42 29 54 42"
+    },
+    "train_128-1353": {
+        "class": 1,
+        "coordinates": "13 58 24 70"
+    },
+    "train_128-1057": {
+        "class": 1,
+        "coordinates": "36 5 47 16"
+    },
+    "train_128-1358": {
+        "class": 1,
+        "coordinates": "95 49 108 59"
+    },
+    "train_128-1052": {
+        "class": 1,
+        "coordinates": "54 93 63 104"
+    },
+    "train_128-1050": {
+        "class": 1,
+        "coordinates": "64 26 74 35"
+    },
+    "train_128-1126": {
+        "class": 1,
+        "coordinates": "90 42 103 58"
+    },
+    "train_128-908": {
+        "class": 1,
+        "coordinates": "67 116 77 125"
+    },
+    "train_128-2992": {
+        "class": 1,
+        "coordinates": "44 87 55 97"
+    },
+    "train_128-1120": {
+        "class": 1,
+        "coordinates": "25 74 35 86"
+    },
+    "train_128-2232": {
+        "class": 1,
+        "coordinates": "36 71 47 81"
+    },
+    "train_128-902": {
+        "class": 1,
+        "coordinates": "43 6 55 18"
+    },
+    "train_128-2236": {
+        "class": 1,
+        "coordinates": "30 72 41 83"
+    },
+    "train_128-2237": {
+        "class": 1,
+        "coordinates": "21 62 32 74"
+    },
+    "train_128-1129": {
+        "class": 1,
+        "coordinates": "84 2 93 9"
+    },
+    "train_128-40": {
+        "class": 1,
+        "coordinates": "28 63 39 74"
+    },
+    "train_128-1905": {
+        "class": 1,
+        "coordinates": "59 11 70 21"
+    },
+    "train_128-4091": {
+        "class": 1,
+        "coordinates": "110 89 121 101"
+    },
+    "train_128-1906": {
+        "class": 1,
+        "coordinates": "114 97 124 109"
+    },
+    "train_128-1901": {
+        "class": 1,
+        "coordinates": "60 2 72 13"
+    },
+    "train_128-4099": {
+        "class": 1,
+        "coordinates": "108 94 118 104"
+    },
+    "train_128-4310": {
+        "class": 1,
+        "coordinates": "91 54 100 67"
+    },
+    "train_128-4316": {
+        "class": 1,
+        "coordinates": "31 66 41 74"
+    },
+    "train_128-3446": {
+        "class": 1,
+        "coordinates": "58 6 70 18"
+    },
+    "train_128-3523": {
+        "class": 1,
+        "coordinates": "66 93 75 105"
+    },
+    "train_128-422": {
+        "class": 1,
+        "coordinates": "122 64 127 73"
+    },
+    "train_128-2494": {
+        "class": 1,
+        "coordinates": "92 37 103 50"
+    },
+    "train_128-557": {
+        "class": 1,
+        "coordinates": "0 54 9 65"
+    },
+    "train_128-2580": {
+        "class": 1,
+        "coordinates": "40 77 49 86"
+    },
+    "train_128-2426": {
+        "class": 1,
+        "coordinates": "81 36 90 49"
+    },
+    "train_128-2423": {
+        "class": 1,
+        "coordinates": "106 45 117 55"
+    },
+    "train_128-2589": {
+        "class": 1,
+        "coordinates": "21 71 30 82"
+    },
+    "train_128-551": {
+        "class": 1,
+        "coordinates": "115 65 125 80"
+    },
+    "train_128-2347": {
+        "class": 1,
+        "coordinates": "106 57 116 71"
+    },
+    "train_128-2345": {
+        "class": 1,
+        "coordinates": "8 70 19 83"
+    },
+    "train_128-2054": {
+        "class": 1,
+        "coordinates": "83 48 93 58"
+    },
+    "train_128-861": {
+        "class": 1,
+        "coordinates": "29 40 44 53"
+    },
+    "train_128-1831": {
+        "class": 1,
+        "coordinates": "88 70 101 82"
+    },
+    "train_128-1835": {
+        "class": 1,
+        "coordinates": "97 71 105 81"
+    },
+    "train_128-4002": {
+        "class": 1,
+        "coordinates": "108 57 120 69"
+    },
+    "train_128-4367": {
+        "class": 1,
+        "coordinates": "89 62 99 75"
+    },
+    "train_128-2161": {
+        "class": 1,
+        "coordinates": "24 63 35 75"
+    },
+    "train_128-4008": {
+        "class": 1,
+        "coordinates": "2 95 11 105"
+    },
+    "train_128-2898": {
+        "class": 1,
+        "coordinates": "56 18 67 29"
+    },
+    "train_128-3741": {
+        "class": 1,
+        "coordinates": "32 2 42 12"
+    },
+    "train_128-781": {
+        "class": 1,
+        "coordinates": "64 8 72 20"
+    },
+    "train_128-3961": {
+        "class": 1,
+        "coordinates": "4 58 15 73"
+    },
+    "train_128-281": {
+        "class": 1,
+        "coordinates": "20 38 35 52"
+    },
+    "train_128-283": {
+        "class": 1,
+        "coordinates": "114 76 123 91"
+    },
+    "train_128-2048": {
+        "class": 1,
+        "coordinates": "38 71 46 81"
+    },
+    "train_128-286": {
+        "class": 1,
+        "coordinates": "38 1 47 10"
+    },
+    "train_128-2165": {
+        "class": 1,
+        "coordinates": "24 63 35 76"
+    },
+    "train_128-288": {
+        "class": 1,
+        "coordinates": "88 120 94 126"
+    },
+    "train_128-2168": {
+        "class": 1,
+        "coordinates": "37 73 48 84"
+    },
+    "train_128-2510": {
+        "class": 1,
+        "coordinates": "79 42 89 50"
+    },
+    "train_128-2043": {
+        "class": 1,
+        "coordinates": "95 55 104 64"
+    },
+    "train_128-2042": {
+        "class": 1,
+        "coordinates": "84 49 93 57"
+    },
+    "train_128-514": {
+        "class": 1,
+        "coordinates": "66 23 78 38"
+    },
+    "train_128-3456": {
+        "class": 1,
+        "coordinates": "58 100 68 110"
+    },
+    "train_128-2198": {
+        "class": 1,
+        "coordinates": "83 47 95 58"
+    },
+    "train_128-2197": {
+        "class": 1,
+        "coordinates": "27 63 32 73"
+    },
+    "train_128-2196": {
+        "class": 1,
+        "coordinates": "33 70 46 82"
+    },
+    "train_128-2195": {
+        "class": 1,
+        "coordinates": "95 51 102 62"
+    },
+    "train_128-2194": {
+        "class": 1,
+        "coordinates": "83 48 93 57"
+    },
+    "train_128-2193": {
+        "class": 1,
+        "coordinates": "26 64 35 75"
+    },
+    "train_128-2190": {
+        "class": 1,
+        "coordinates": "106 46 116 57"
+    },
+    "train_128-1066": {
+        "class": 1,
+        "coordinates": "71 28 81 40"
+    },
+    "train_128-4275": {
+        "class": 1,
+        "coordinates": "90 60 99 74"
+    },
+    "train_128-1221": {
+        "class": 1,
+        "coordinates": "10 60 22 72"
+    },
+    "train_128-1068": {
+        "class": 1,
+        "coordinates": "47 92 60 103"
+    },
+    "train_128-1783": {
+        "class": 1,
+        "coordinates": "83 79 96 91"
+    },
+    "train_128-2606": {
+        "class": 1,
+        "coordinates": "79 41 90 53"
+    },
+    "train_128-1781": {
+        "class": 1,
+        "coordinates": "34 41 43 52"
+    },
+    "train_128-1780": {
+        "class": 1,
+        "coordinates": "79 114 86 122"
+    },
+    "train_128-608": {
+        "class": 1,
+        "coordinates": "26 53 34 61"
+    },
+    "train_128-2601": {
+        "class": 1,
+        "coordinates": "19 71 34 79"
+    },
+    "train_128-760": {
+        "class": 1,
+        "coordinates": "3 21 11 32"
+    },
+    "train_128-605": {
+        "class": 1,
+        "coordinates": "39 43 49 55"
+    },
+    "train_128-1460": {
+        "class": 1,
+        "coordinates": "45 86 55 98"
+    },
+    "train_128-1461": {
+        "class": 1,
+        "coordinates": "9 76 22 91"
+    },
+    "train_128-769": {
+        "class": 1,
+        "coordinates": "55 13 68 25"
+    },
+    "train_128-603": {
+        "class": 1,
+        "coordinates": "83 79 95 93"
+    },
+    "train_128-1013": {
+        "class": 1,
+        "coordinates": "50 3 60 13"
+    },
+    "train_128-1546": {
+        "class": 1,
+        "coordinates": "60 8 71 19"
+    },
+    "train_128-561": {
+        "class": 1,
+        "coordinates": "13 55 24 68"
+    },
+    "train_128-1540": {
+        "class": 1,
+        "coordinates": "54 98 63 108"
+    },
+    "train_128-1543": {
+        "class": 1,
+        "coordinates": "113 18 127 33"
+    },
+    "train_128-1014": {
+        "class": 1,
+        "coordinates": "86 3 98 12"
+    },
+    "train_128-569": {
+        "class": 1,
+        "coordinates": "8 49 18 62"
+    },
+    "train_128-986": {
+        "class": 1,
+        "coordinates": "58 12 67 24"
+    },
+    "train_128-2890": {
+        "class": 1,
+        "coordinates": "54 17 68 28"
+    },
+    "train_128-15": {
+        "class": 1,
+        "coordinates": "89 63 99 75"
+    },
+    "train_128-2896": {
+        "class": 1,
+        "coordinates": "61 101 71 112"
+    },
+    "train_128-2897": {
+        "class": 1,
+        "coordinates": "45 28 59 42"
+    },
+    "train_128-785": {
+        "class": 1,
+        "coordinates": "64 3 76 12"
+    },
+    "train_128-1767": {
+        "class": 1,
+        "coordinates": "85 79 94 89"
+    },
+    "train_128-1766": {
+        "class": 1,
+        "coordinates": "41 8 49 19"
+    },
+    "train_128-1945": {
+        "class": 1,
+        "coordinates": "51 14 64 29"
+    },
+    "train_128-19": {
+        "class": 1,
+        "coordinates": "86 65 102 75"
+    },
+    "train_128-4217": {
+        "class": 1,
+        "coordinates": "31 53 41 65"
+    },
+    "train_128-3484": {
+        "class": 1,
+        "coordinates": "56 99 67 110"
+    },
+    "train_128-4219": {
+        "class": 1,
+        "coordinates": "88 62 101 74"
+    },
+    "train_128-2946": {
+        "class": 1,
+        "coordinates": "56 15 65 25"
+    },
+    "train_128-3646": {
+        "class": 1,
+        "coordinates": "61 16 72 30"
+    },
+    "train_128-2860": {
+        "class": 1,
+        "coordinates": "60 101 71 110"
+    },
+    "train_128-1265": {
+        "class": 1,
+        "coordinates": "22 22 34 34"
+    },
+    "train_128-1260": {
+        "class": 1,
+        "coordinates": "27 54 37 67"
+    },
+    "train_128-307": {
+        "class": 1,
+        "coordinates": "81 82 91 94"
+    },
+    "train_128-1263": {
+        "class": 1,
+        "coordinates": "83 67 93 79"
+    },
+    "train_128-1306": {
+        "class": 1,
+        "coordinates": "87 51 97 61"
+    },
+    "train_128-263": {
+        "class": 1,
+        "coordinates": "104 59 119 72"
+    },
+    "train_128-1301": {
+        "class": 1,
+        "coordinates": "26 60 37 70"
+    },
+    "train_128-1300": {
+        "class": 1,
+        "coordinates": "34 66 45 77"
+    },
+    "train_128-2460": {
+        "class": 1,
+        "coordinates": "39 78 48 87"
+    },
+    "train_128-2466": {
+        "class": 1,
+        "coordinates": "84 35 98 50"
+    },
+    "train_128-1119": {
+        "class": 1,
+        "coordinates": "31 115 39 124"
+    },
+    "train_128-1117": {
+        "class": 1,
+        "coordinates": "85 2 96 13"
+    },
+    "train_128-89": {
+        "class": 1,
+        "coordinates": "29 54 39 67"
+    },
+    "train_128-2267": {
+        "class": 1,
+        "coordinates": "95 51 104 63"
+    },
+    "train_128-2266": {
+        "class": 1,
+        "coordinates": "83 47 96 57"
+    },
+    "train_128-2261": {
+        "class": 1,
+        "coordinates": "22 62 35 74"
+    },
+    "train_128-1288": {
+        "class": 1,
+        "coordinates": "9 63 20 73"
+    },
+    "train_128-1289": {
+        "class": 1,
+        "coordinates": "21 62 31 72"
+    },
+    "train_128-1285": {
+        "class": 1,
+        "coordinates": "7 25 16 38"
+    },
+    "train_128-1283": {
+        "class": 1,
+        "coordinates": "89 62 99 72"
+    },
+    "train_128-1281": {
+        "class": 1,
+        "coordinates": "31 53 44 67"
+    },
+    "train_128-682": {
+        "class": 1,
+        "coordinates": "90 55 99 68"
+    },
+    "train_128-4324": {
+        "class": 1,
+        "coordinates": "32 64 41 77"
+    },
+    "train_128-4328": {
+        "class": 1,
+        "coordinates": "33 63 39 75"
+    },
+    "train_128-3413": {
+        "class": 1,
+        "coordinates": "1 57 12 71"
+    },
+    "train_128-949": {
+        "class": 1,
+        "coordinates": "46 28 57 39"
+    },
+    "train_128-948": {
+        "class": 1,
+        "coordinates": "64 98 72 110"
+    },
+    "train_128-416": {
+        "class": 1,
+        "coordinates": "8 62 20 75"
+    },
+    "train_128-941": {
+        "class": 1,
+        "coordinates": "46 20 56 33"
+    },
+    "train_128-940": {
+        "class": 1,
+        "coordinates": "68 102 77 115"
+    },
+    "train_128-3922": {
+        "class": 1,
+        "coordinates": "109 44 120 57"
+    },
+    "train_128-3928": {
+        "class": 1,
+        "coordinates": "3 95 14 108"
+    },
+    "train_128-269": {
+        "class": 1,
+        "coordinates": "11 49 25 64"
+    },
+    "train_128-2000": {
+        "class": 1,
+        "coordinates": "35 71 48 83"
+    },
+    "train_128-2003": {
+        "class": 1,
+        "coordinates": "95 53 104 62"
+    },
+    "train_128-2007": {
+        "class": 1,
+        "coordinates": "94 53 104 63"
+    },
+    "train_128-308": {
+        "class": 1,
+        "coordinates": "73 109 83 121"
+    },
+    "train_128-2008": {
+        "class": 1,
+        "coordinates": "35 72 47 82"
+    },
+    "train_128-1849": {
+        "class": 1,
+        "coordinates": "8 60 16 70"
+    },
+    "train_128-2392": {
+        "class": 1,
+        "coordinates": "36 78 46 89"
+    },
+    "train_128-4133": {
+        "class": 1,
+        "coordinates": "30 54 41 66"
+    },
+    "train_128-2394": {
+        "class": 1,
+        "coordinates": "93 40 102 48"
+    },
+    "train_128-4039": {
+        "class": 1,
+        "coordinates": "107 93 118 103"
+    },
+    "train_128-1840": {
+        "class": 1,
+        "coordinates": "96 120 105 130"
+    },
+    "train_128-1841": {
+        "class": 1,
+        "coordinates": "8 54 17 67"
+    },
+    "train_128-1302": {
+        "class": 1,
+        "coordinates": "87 50 98 61"
+    },
+    "train_128-3280": {
+        "class": 1,
+        "coordinates": "13 70 22 86"
+    },
+    "train_128-4421": {
+        "class": 1,
+        "coordinates": "30 55 40 67"
+    },
+    "train_128-3850": {
+        "class": 1,
+        "coordinates": "114 65 123 75"
+    },
+    "train_128-4037": {
+        "class": 1,
+        "coordinates": "5 55 16 70"
+    },
+    "train_128-1859": {
+        "class": 1,
+        "coordinates": "109 59 119 66"
+    },
+    "train_128-2135": {
+        "class": 1,
+        "coordinates": "94 54 105 66"
+    },
+    "train_128-2134": {
+        "class": 1,
+        "coordinates": "82 48 93 60"
+    },
+    "train_128-2130": {
+        "class": 1,
+        "coordinates": "84 49 94 58"
+    },
+    "train_128-528": {
+        "class": 1,
+        "coordinates": "46 106 60 118"
+    },
+    "train_128-134": {
+        "class": 1,
+        "coordinates": "109 67 118 78"
+    },
+    "train_128-2521": {
+        "class": 1,
+        "coordinates": "19 70 30 83"
+    },
+    "train_128-520": {
+        "class": 1,
+        "coordinates": "46 104 57 114"
+    },
+    "train_128-525": {
+        "class": 1,
+        "coordinates": "1 89 9 99"
+    },
+    "train_128-1504": {
+        "class": 1,
+        "coordinates": "45 90 53 101"
+    },
+    "train_128-2483": {
+        "class": 1,
+        "coordinates": "99 52 111 65"
+    },
+    "train_128-526": {
+        "class": 1,
+        "coordinates": "69 23 78 35"
+    },
+    "train_128-720": {
+        "class": 1,
+        "coordinates": "18 43 29 56"
+    },
+    "train_128-1488": {
+        "class": 1,
+        "coordinates": "41 104 54 113"
+    },
+    "train_128-1724": {
+        "class": 1,
+        "coordinates": "54 92 63 104"
+    },
+    "train_128-1480": {
+        "class": 1,
+        "coordinates": "48 86 59 98"
+    },
+    "train_128-1482": {
+        "class": 1,
+        "coordinates": "94 26 103 34"
+    },
+    "train_128-1485": {
+        "class": 1,
+        "coordinates": "3 84 11 94"
+    },
+    "train_128-1486": {
+        "class": 1,
+        "coordinates": "84 26 93 35"
+    },
+    "train_128-4255": {
+        "class": 1,
+        "coordinates": "91 62 100 75"
+    },
+    "train_128-3217": {
+        "class": 1,
+        "coordinates": "5 60 18 72"
+    },
+    "train_128-3216": {
+        "class": 1,
+        "coordinates": "15 92 25 105"
+    },
+    "train_128-3606": {
+        "class": 1,
+        "coordinates": "62 17 72 27"
+    },
+    "train_128-3350": {
+        "class": 1,
+        "coordinates": "118 100 126 110"
+    },
+    "train_128-2636": {
+        "class": 1,
+        "coordinates": "35 76 46 88"
+    },
+    "train_128-2632": {
+        "class": 1,
+        "coordinates": "40 76 50 88"
+    },
+    "train_128-306": {
+        "class": 1,
+        "coordinates": "47 11 58 21"
+    },
+    "train_128-634": {
+        "class": 1,
+        "coordinates": "90 60 102 71"
+    },
+    "train_128-1437": {
+        "class": 1,
+        "coordinates": "21 67 31 79"
+    },
+    "train_128-1029": {
+        "class": 1,
+        "coordinates": "59 19 67 29"
+    },
+    "train_128-1345": {
+        "class": 1,
+        "coordinates": "26 56 40 72"
+    },
+    "train_128-1022": {
+        "class": 1,
+        "coordinates": "60 25 77 38"
+    },
+    "train_128-182": {
+        "class": 1,
+        "coordinates": "114 92 123 103"
+    },
+    "train_128-1348": {
+        "class": 1,
+        "coordinates": "34 69 43 79"
+    },
+    "train_128-639": {
+        "class": 1,
+        "coordinates": "88 63 94 75"
+    },
+    "train_128-2229": {
+        "class": 1,
+        "coordinates": "25 63 34 77"
+    },
+    "train_128-917": {
+        "class": 1,
+        "coordinates": "40 38 50 47"
+    },
+    "train_128-1658": {
+        "class": 1,
+        "coordinates": "93 41 104 55"
+    },
+    "train_128-913": {
+        "class": 1,
+        "coordinates": "38 38 48 53"
+    },
+    "train_128-1413": {
+        "class": 1,
+        "coordinates": "40 44 50 54"
+    },
+    "train_128-1657": {
+        "class": 1,
+        "coordinates": "81 2 96 11"
+    },
+    "train_128-4084": {
+        "class": 1,
+        "coordinates": "7 98 17 109"
+    },
+    "train_128-1650": {
+        "class": 1,
+        "coordinates": "96 48 110 61"
+    },
+    "train_128-1933": {
+        "class": 1,
+        "coordinates": "56 18 64 30"
+    },
+    "train_128-1934": {
+        "class": 1,
+        "coordinates": "114 94 123 105"
+    },
+    "train_128-985": {
+        "class": 1,
+        "coordinates": "43 21 54 34"
+    },
+    "train_128-1938": {
+        "class": 1,
+        "coordinates": "111 95 122 107"
+    },
+    "train_128-47": {
+        "class": 1,
+        "coordinates": "88 66 99 75"
+    },
+    "train_128-82": {
+        "class": 1,
+        "coordinates": "89 57 98 67"
+    },
+    "train_128-2918": {
+        "class": 1,
+        "coordinates": "56 18 66 30"
+    },
+    "train_128-3512": {
+        "class": 1,
+        "coordinates": "51 103 63 115"
+    },
+    "train_128-2334": {
+        "class": 1,
+        "coordinates": "93 41 100 52"
+    },
+    "train_128-84": {
+        "class": 1,
+        "coordinates": "30 64 38 73"
+    },
+    "train_128-981": {
+        "class": 1,
+        "coordinates": "48 25 61 37"
+    },
+    "train_128-2853": {
+        "class": 1,
+        "coordinates": "47 19 57 32"
+    },
+    "train_128-1239": {
+        "class": 1,
+        "coordinates": "83 68 95 80"
+    },
+    "train_128-356": {
+        "class": 1,
+        "coordinates": "43 85 53 95"
+    },
+    "train_128-988": {
+        "class": 1,
+        "coordinates": "56 99 66 112"
+    },
+    "train_128-1232": {
+        "class": 1,
+        "coordinates": "15 65 26 77"
+    },
+    "train_128-350": {
+        "class": 1,
+        "coordinates": "73 33 83 43"
+    },
+    "train_128-616": {
+        "class": 1,
+        "coordinates": "25 52 33 63"
+    },
+    "train_128-2592": {
+        "class": 1,
+        "coordinates": "40 80 52 91"
+    },
+    "train_128-3781": {
+        "class": 1,
+        "coordinates": "12 67 24 80"
+    },
+    "train_128-2456": {
+        "class": 1,
+        "coordinates": "30 94 40 106"
+    },
+    "train_128-2356": {
+        "class": 1,
+        "coordinates": "35 79 46 96"
+    },
+    "train_128-2352": {
+        "class": 1,
+        "coordinates": "37 76 45 88"
+    },
+    "train_128-1804": {
+        "class": 1,
+        "coordinates": "77 110 87 122"
+    },
+    "train_128-2296": {
+        "class": 1,
+        "coordinates": "37 72 46 82"
+    },
+    "train_128-3720": {
+        "class": 1,
+        "coordinates": "58 100 69 111"
+    },
+    "train_128-2290": {
+        "class": 1,
+        "coordinates": "84 45 95 57"
+    },
+    "train_128-4174": {
+        "class": 1,
+        "coordinates": "88 54 100 69"
+    },
+    "train_128-52": {
+        "class": 1,
+        "coordinates": "30 63 38 72"
+    },
+    "train_128-618": {
+        "class": 1,
+        "coordinates": "95 65 105 77"
+    },
+    "train_128-53": {
+        "class": 1,
+        "coordinates": "30 56 39 66"
+    },
+    "train_128-4375": {
+        "class": 1,
+        "coordinates": "88 60 101 74"
+    },
+    "train_128-4078": {
+        "class": 1,
+        "coordinates": "106 54 117 68"
+    },
+    "train_128-3012": {
+        "class": 1,
+        "coordinates": "13 69 25 79"
+    },
+    "train_128-56": {
+        "class": 1,
+        "coordinates": "28 62 38 75"
+    }
+}
