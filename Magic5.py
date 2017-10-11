@@ -154,9 +154,9 @@ def main(_):
     # sess.run(tf.global_variables_initializer())
     for i in range(4000):
     #   ##batch = mnist.train.next_batch(50)
-      the_data = input_data_reg.test_data_random_batch(batch_size=500)
+      the_data = input_data_reg.test_data_random_batch(batch_size=200)
       if i % 100 == 0:
-        batch = input_data.train_data_next_batch(batch_size=100)
+        batch = input_data.train_data_next_batch(batch_size=300)
         images = the_data[0]
         codinates = the_data[2]
         train_accuracy = accuracy.eval(feed_dict={
